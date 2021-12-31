@@ -11,6 +11,7 @@ I have IBM Data Science Certificate and currently on a track to get AWS Certifie
 I'm planning to get Microsoft Certified: Data Analyst Associate Certification
 
 Here you can check my Data Science projects I have worked on
+
 You can contact me though my email - le.gvalia@gmail.com
 
 <!---
