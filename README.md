@@ -6,7 +6,7 @@ I have experience in:
 - Excel and Financial Analysis up to 10 years
 
 
-I’m currently on a track to get AWS Certified Machine learning Specialty using AWS Sagemaker
+I have IBM Data Science Certificate and currently on a track to get AWS Certified Machine learning Specialty using AWS Sagemaker
 
 I'm planning to get Microsoft Certified: Data Analyst Associate Certification
 
