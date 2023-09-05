@@ -15,7 +15,8 @@ Here you can check my ML projects I have worked on:
 Streamlit app for data visualizations:
 https://github.com/Lgvalia/streamlit_app_picnic
 
-
+MIT TOT Soviet Symbol Detection:
+https://github.com/Lgvalia/MIT-Soviet-Symbol-Detection
 
 
 You can contact me though my email - le.gvalia@gmail.com
