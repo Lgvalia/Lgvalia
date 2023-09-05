@@ -19,7 +19,7 @@ https://github.com/Lgvalia/streamlit_app_picnic
 2. MIT TOT Soviet Symbol Detection:
 https://github.com/Lgvalia/MIT-Soviet-Symbol-Detection
 
-3. Vehicle similarity detection from different angle using SIFT technique:
+3. Vehicle similarity detection from different angles:
 https://github.com/Lgvalia/Vehicle-Similarity
 
 4. Real Estate sites web scraping for apartment prices:
