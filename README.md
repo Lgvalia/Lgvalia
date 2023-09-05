@@ -8,7 +8,7 @@ I have experience in:
 
 I am Microsoft Certified: Azure Data Scientist Associate and have certificates of IBM Data Science, Deeplearning.ai Machine Learning Engineering for Production (MLOps) and Deeplearning.ai Deep Learning Specialization.
 
-I have built end-to-end ML projects starting with data collection in MS SQL Server, dbt, proceeded by Sklearn pipelines, MLflow, FastAPI, Docker and Streamlit.
+I have built end-to-end ML projects starting with data collection in MS SQL Server, dbt, proceeded by Sklearn pipelines, MLflow, FastAPI, Docker and Streamlit; in addition to other various projects.
 
 
 Here you can check some of my ML projects I have worked on:
