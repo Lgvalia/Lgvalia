@@ -13,14 +13,17 @@ I have built end-to-end ML projects starting with data collection in MS SQL Serv
 
 Here you can check some of my ML projects I have worked on:
 
-Streamlit app for data visualizations:
+1. Streamlit app for data visualizations:
 https://github.com/Lgvalia/streamlit_app_picnic
 
-MIT TOT Soviet Symbol Detection:
+2. MIT TOT Soviet Symbol Detection:
 https://github.com/Lgvalia/MIT-Soviet-Symbol-Detection
 
-Vehicle similarity detection from different angle using SIFT technique:
+3. Vehicle similarity detection from different angle using SIFT technique:
 https://github.com/Lgvalia/Vehicle-Similarity/tree/main
+
+4. Real Estate sites web scraping for apartment prices:
+https://github.com/Lgvalia/Real-Estate-web-scraping
 
 
 
