@@ -11,6 +11,7 @@ I am Microsoft Certified: Azure Data Scientist Associate and have certificates o
 I have built end-to-end ML projects starting with data collection in MS SQL Server, dbt, proceeded by Sklearn pipelines, MLflow, FastAPI, Docker and Streamlit.
 
 Here you can check my ML projects I have worked on:
+
 Streamlit app for data visualizations:
 https://github.com/Lgvalia/streamlit_app_picnic
 
