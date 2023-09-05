@@ -19,6 +19,9 @@ https://github.com/Lgvalia/streamlit_app_picnic
 MIT TOT Soviet Symbol Detection:
 https://github.com/Lgvalia/MIT-Soviet-Symbol-Detection
 
+Vehicle similarity detection from different angle using SIFT technique:
+https://github.com/Lgvalia/Vehicle-Similarity/tree/main
+
 
 
 You can contact me though my email - le.gvalia@gmail.com
