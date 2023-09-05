@@ -20,7 +20,7 @@ https://github.com/Lgvalia/MIT-Soviet-Symbol-Detection
 
 
 You can contact me though my email - le.gvalia@gmail.com
-Or my LinkedIn account - https://www.linkedin.com/in/levan-gvalia/
+ | or my LinkedIn account - https://www.linkedin.com/in/levan-gvalia/
 
 <!---
 Lgvalia/Lgvalia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
