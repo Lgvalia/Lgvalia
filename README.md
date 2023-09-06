@@ -19,8 +19,8 @@ https://github.com/Lgvalia/Prepayment-prediction-Space
 2. Streamlit app for data visualizations:
 https://github.com/Lgvalia/streamlit_app_picnic
 
-3. MIT TOT Soviet Symbol Detection:
-https://github.com/Lgvalia/MIT-Soviet-Symbol-Detection
+3. MIT TOT Soviet Buildings classification:
+https://github.com/Lgvalia/MIT-Soviet-buildings-classification
 
 4. Vehicle similarity detection from different angles:
 https://github.com/Lgvalia/Vehicle-Similarity
