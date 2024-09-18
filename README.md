@@ -1,8 +1,8 @@
 Hi, I’m @Lgvalia
 
 I have experience in:
-- Data Science 2+ years 
-- Power Bi and T-SQL 3+ years
+- Data Science 3+ years 
+- Power Bi and T-SQL 4+ years
 - Excel and Financial Analysis up to 10 years
 
 
